@@ -1,0 +1,7 @@
+scipy
+filterpy
+numba
+scikit-image
+scikit-learn
+imutils
+numpy
